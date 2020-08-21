@@ -45,3 +45,7 @@ class Counter(val count: Int = 0) {
   def apply(): String = s"The counter value: ${this.count}"
 
 }
+
+// case classes have built in toString, equals & hashcode
+case class Abc(a: Int) {
+}
