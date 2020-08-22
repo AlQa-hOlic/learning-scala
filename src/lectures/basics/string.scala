@@ -1,4 +1,3 @@
-
 object StringFunctions extends App {
 
   val str = "Hello, world!"
