@@ -1,4 +1,7 @@
+package lectures.fp
+
 import scala.annotation.tailrec
+
 object Maps extends App {
     // tuples
     val tuple = ("Hello", "world") // new Tuple2("Hello", "world")

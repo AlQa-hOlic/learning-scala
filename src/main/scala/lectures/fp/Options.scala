@@ -1,3 +1,5 @@
+package lectures.fp
+
 import scala.util.Random
 
 object Options extends App {

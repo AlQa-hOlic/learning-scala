@@ -1,0 +1,16 @@
+plugins {
+    id 'scala'
+    id 'application'
+}
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    implementation 'org.scala-lang:scala-library:2.11.12'
+}
+
+application {
+    mainClassName = 'lectures.fp.Patterns'
+}

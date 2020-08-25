@@ -1,3 +1,5 @@
+package lectures.fp
+
 object Functions extends App {
 
   val doubler = new Function1[Int, Int] {

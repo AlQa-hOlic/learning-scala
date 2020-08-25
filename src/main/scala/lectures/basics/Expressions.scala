@@ -1,3 +1,4 @@
+package lectures.basics
 
 object Expressions extends App {
   // An if statement is an expression

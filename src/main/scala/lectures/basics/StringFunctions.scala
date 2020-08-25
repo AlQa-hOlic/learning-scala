@@ -1,3 +1,5 @@
+package lectures.basics
+
 object StringFunctions extends App {
 
   val str = "Hello, world!"

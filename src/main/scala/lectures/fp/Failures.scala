@@ -1,3 +1,5 @@
+package lectures.fp
+
 import scala.util.{Success,Failure,Try}
 
 object Failures extends App {
